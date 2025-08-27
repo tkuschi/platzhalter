@@ -1,4 +1,4 @@
-console.log("JS geladen 🎉");
+console.log("JS ge312321laden 🎉");
 
 gsap.to(".header-inner", {
   paddingLeft: "12rem",
