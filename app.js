@@ -1,5 +1,3 @@
-gsap.registerPlugin(ScrollTrigger);
-
   // Timeline für Header
   gsap.to(".header-inner", {
     paddingTop: "4rem",   // Zielwerte, anpassen wie du willst
