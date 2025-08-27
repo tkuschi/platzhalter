@@ -1,4 +1,6 @@
-  // Timeline für Header
+console.log("JS geladen 🎉");
+
+// Timeline für Header
   gsap.to(".header-inner", {
     paddingTop: "4rem",   // Zielwerte, anpassen wie du willst
     paddingBottom: "4rem",
