@@ -2,8 +2,8 @@ console.log("JS geladen 🎉");
 
 // Timeline für Header
   gsap.to(".header-inner", {
-    paddingTop: "4rem",   // Zielwerte, anpassen wie du willst
-    paddingBottom: "4rem",
+    paddingLeft: "12rem",   // Zielwerte, anpassen wie du willst
+    paddingRight: "12rem",
     duration: 0.5,
     ease: "power2.out",
     scrollTrigger: {
